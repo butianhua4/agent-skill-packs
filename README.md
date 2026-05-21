@@ -25,6 +25,8 @@ to make agent work easier to inspect, package, sell, and maintain.
 - `docs/AGENT_SKILL_PACK_UPLOAD_CHECKLIST.md` - step-by-step upload checklist
   for Fiverr, GitHub visibility, OpenClaw community posts, and domestic service
   platforms.
+- `docs/FIVERR_GALLERY_STORYBOARD.md` - gallery image copy, video script, and
+  upload order for turning the pack bundle into platform sales material.
 - `docs/AGENT_SKILL_PACK_BUYER_REPLY_PACK.md` - buyer replies and Custom Offer
   drafts for converting qualified inquiries into scoped work.
 - `docs/PACK_DEMO_INDEX.md` - demo inputs, expected outputs, and sellable use
