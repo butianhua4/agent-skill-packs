@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Agent Skill Pack Bundle cover</title>
+  <desc id="desc">A buyer-facing cover for a seven pack AI agent skill bundle.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="0.55" stop-color="#172554"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#eef2ff" stop-opacity="0.94"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <path d="M0 760 C260 650 420 820 680 700 C930 585 1080 520 1600 640 L1600 1000 L0 1000 Z" fill="#14b8a6" opacity="0.16"/>
+  <path d="M0 150 C220 90 390 180 560 120 C780 42 980 80 1600 30 L1600 0 L0 0 Z" fill="#60a5fa" opacity="0.13"/>
+
+  <g transform="translate(104 100)">
+    <text x="0" y="0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" fill="#99f6e4" font-weight="700">AI AGENT SYSTEM KIT</text>
+    <text x="0" y="92" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" fill="#ffffff" font-weight="800">7 Reusable Skill Packs</text>
+    <text x="0" y="150" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" fill="#dbeafe">Prompts, trigger rules, safety boundaries, test cases, and delivery templates.</text>
+  </g>
+
+  <g transform="translate(104 322)" filter="url(#shadow)">
+    <rect x="0" y="0" width="1392" height="510" rx="28" fill="url(#card)"/>
+    <g font-family="Inter, Segoe UI, Arial, sans-serif">
+      <text x="56" y="72" font-size="28" fill="#0f172a" font-weight="800">Bundle Contents</text>
+      <text x="56" y="118" font-size="20" fill="#475569">A practical system for packaging repeatable AI workflows into buyer-ready skills.</text>
+
+      <g transform="translate(56 160)">
+        <rect width="380" height="90" rx="18" fill="#dbeafe"/>
+        <text x="28" y="38" font-size="22" fill="#1e3a8a" font-weight="800">Debug Workflows</text>
+        <text x="28" y="68" font-size="18" fill="#1e40af">Logs, failures, fix reports</text>
+      </g>
+      <g transform="translate(506 160)">
+        <rect width="380" height="90" rx="18" fill="#ccfbf1"/>
+        <text x="28" y="38" font-size="22" fill="#115e59" font-weight="800">Safety Boundaries</text>
+        <text x="28" y="68" font-size="18" fill="#0f766e">Refusals, limits, escalation</text>
+      </g>
+      <g transform="translate(956 160)">
+        <rect width="380" height="90" rx="18" fill="#ede9fe"/>
+        <text x="28" y="38" font-size="22" fill="#5b21b6" font-weight="800">Delivery Templates</text>
+        <text x="28" y="68" font-size="18" fill="#6d28d9">Handoff, QA, buyer updates</text>
+      </g>
+
+      <g transform="translate(56 292)">
+        <rect width="1280" height="128" rx="22" fill="#0f172a"/>
+        <text x="34" y="50" font-size="24" fill="#ffffff" font-weight="800">Included Packs</text>
+        <text x="34" y="91" font-size="21" fill="#cbd5e1">Log Debug • Auto Debugger • Skill Auditor • Proposal Generator • Error Handler • Progress Reporter • Delivery Packager</text>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(104 890)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="0" y="0" font-size="24" fill="#dbeafe" font-weight="700">Validated with npm run preflight</text>
+    <text x="420" y="0" font-size="24" fill="#a7f3d0" font-weight="700">Built for Fiverr, GitHub, OpenClaw-style workflows, and custom agents</text>
+  </g>
+</svg>

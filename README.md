@@ -19,6 +19,8 @@ to make agent work easier to inspect, package, sell, and maintain.
   for selling custom agent/skill packs as a service.
 - `docs/AGENT_SKILL_PACK_PORTFOLIO.md` - compact proof page for showing the
   current 7-pack bundle to buyers.
+- `assets/agent-skill-pack-bundle-cover.svg` - reusable cover image for the
+  7-pack bundle.
 
 ## Current Starter Packs
 
