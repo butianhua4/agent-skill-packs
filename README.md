@@ -21,14 +21,14 @@ to make agent work easier to inspect, package, sell, and maintain.
 - `docs/AGENT_SKILL_PACK_LISTING.md` - Fiverr and Chinese platform listing copy
   for selling custom agent/skill packs as a service.
 - `docs/AGENT_SKILL_PACK_PORTFOLIO.md` - compact proof page for showing the
-  current 7-pack bundle to buyers.
+  current skill-pack bundle to buyers.
 - `docs/AGENT_SKILL_PACK_UPLOAD_CHECKLIST.md` - step-by-step upload checklist
   for Fiverr, GitHub visibility, OpenClaw community posts, and domestic service
   platforms.
 - `docs/AGENT_SKILL_PACK_BUYER_REPLY_PACK.md` - buyer replies and Custom Offer
   drafts for converting qualified inquiries into scoped work.
 - `assets/agent-skill-pack-bundle-cover.svg` - reusable cover image for the
-  7-pack bundle.
+  skill-pack bundle.
 
 ## Current Starter Packs
 
@@ -38,6 +38,7 @@ to make agent work easier to inspect, package, sell, and maintain.
 | `auto-debugger-skill-pack` | Classify automation failures and produce safe fix plans with validation steps. | Cleaned from OpenClaw concept |
 | `agent-skill-pack-auditor` | Audit a folder of skills, classify risks, and create an upgrade plan. | Ready for review |
 | `client-proposal-generator` | Generate scoped proposals for AI automation, agent workflow, or skill-pack services. | Tested source concept, cleaned pack |
+| `content-distribution-skill-pack` | Turn one GitHub/Fiverr/proof asset into safe multi-platform launch copy. | Rebuilt from OpenClaw concept |
 | `delivery-packager-skill-pack` | Package completed service work into a clean handoff bundle with manifest, QA notes, and buyer instructions. | Rebuilt from OpenClaw concept |
 | `error-handler-skill-pack` | Design structured error handling, logging, recovery, and prevention plans. | Rebuilt from OpenClaw concept |
 | `market-opportunity-radar-skill-pack` | Turn public market notes into ranked sellable AI agent and automation opportunities. | Rebuilt from OpenClaw concept |

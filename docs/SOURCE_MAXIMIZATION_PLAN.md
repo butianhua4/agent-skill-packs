@@ -20,7 +20,7 @@ Highest-value candidates:
 | `progress-reporter` | `progress-reporter-skill-pack` | Buyer updates and reporting | Done |
 | `delivery-packager` | `delivery-packager-skill-pack` | Clean service handoff | Done |
 | `market-radar` | `market-opportunity-radar-skill-pack` | Find sellable opportunities | Done |
-| `markdown-to-social` | Candidate social distribution pack | Repost proof assets | Next |
+| `markdown-to-social` | `content-distribution-skill-pack` | Repost proof assets | Done |
 | `product-builder` | Candidate offer builder pack | Turn market signal into product | Next |
 | `seo-optimizer` | Candidate AEO/SEO audit pack | Search visibility service | Later |
 | `git-automation` | Candidate safe Git workflow pack | Public repo delivery | Later |
@@ -46,12 +46,9 @@ Not allowed:
 
 ## Next Import Queue
 
-1. `markdown-to-social` as a safe content repurposing pack for turning GitHub
-   proof assets into Fiverr, X, LinkedIn, Xiaohongshu, and domestic-platform
-   posts.
-2. `product-builder` as an offer builder pack that converts market-radar output
+1. `product-builder` as an offer builder pack that converts market-radar output
    into title, package, proof asset, buyer requirements, and delivery template.
-3. `seo-optimizer` as an AEO/AI-search readiness pack.
+2. `seo-optimizer` as an AEO/AI-search readiness pack.
 
 ## Validation Rule
 
@@ -68,4 +65,3 @@ Every imported pack must include:
 - `SAFETY.md`
 - `TEST_CASES.md`
 - `DELIVERY_TEMPLATE.md`
-
