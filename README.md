@@ -17,6 +17,8 @@ to make agent work easier to inspect, package, sell, and maintain.
 
 - `docs/AGENT_SKILL_PACK_LISTING.md` - Fiverr and Chinese platform listing copy
   for selling custom agent/skill packs as a service.
+- `docs/AGENT_SKILL_PACK_PORTFOLIO.md` - compact proof page for showing the
+  current 7-pack bundle to buyers.
 
 ## Current Starter Packs
 
