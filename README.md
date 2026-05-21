@@ -34,6 +34,7 @@ to make agent work easier to inspect, package, sell, and maintain.
 
 | Pack | Use case | Status |
 | --- | --- | --- |
+| `aeo-search-readiness-skill-pack` | Improve GitHub READMEs, Fiverr gigs, and service pages for buyer and answer-engine clarity. | Rebuilt from OpenClaw concept |
 | `ai-workflow-log-debug-skill` | Diagnose failed AI agent or automation logs and produce a scoped fix report. | Ready for review |
 | `auto-debugger-skill-pack` | Classify automation failures and produce safe fix plans with validation steps. | Cleaned from OpenClaw concept |
 | `agent-skill-pack-auditor` | Audit a folder of skills, classify risks, and create an upgrade plan. | Ready for review |

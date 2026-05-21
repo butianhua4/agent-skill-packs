@@ -22,7 +22,7 @@ Highest-value candidates:
 | `market-radar` | `market-opportunity-radar-skill-pack` | Find sellable opportunities | Done |
 | `markdown-to-social` | `content-distribution-skill-pack` | Repost proof assets | Done |
 | `product-builder` | `offer-builder-skill-pack` | Turn market signal into product | Done |
-| `seo-optimizer` | Candidate AEO/SEO audit pack | Search visibility service | Later |
+| `seo-optimizer` | `aeo-search-readiness-skill-pack` | Search visibility service | Done |
 | `git-automation` | Candidate safe Git workflow pack | Public repo delivery | Later |
 
 ## Claude Backup Inspiration Only
@@ -46,9 +46,9 @@ Not allowed:
 
 ## Next Import Queue
 
-1. `seo-optimizer` as an AEO/AI-search readiness pack.
-2. `git-automation` as a safe public-repo release helper with no private repo
+1. `git-automation` as a safe public-repo release helper with no private repo
    access or high-permission operations.
+2. Add demo input/output examples for the highest-value packs.
 
 ## Validation Rule
 
