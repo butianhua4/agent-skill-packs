@@ -27,6 +27,8 @@ to make agent work easier to inspect, package, sell, and maintain.
   domestic service platforms.
 - `docs/FIVERR_GALLERY_STORYBOARD.md` - gallery image copy, video script, and
   upload order for turning the pack bundle into platform sales material.
+- `docs/AGENT_SKILL_PACK_DEMO_AND_COMMUNITY_POST.md` - 45-second demo script,
+  GitHub/OpenClaw community post, short social post, and recording checklist.
 - `assets/fiverr-gallery/` - five editable SVG gallery cards generated from the
   storyboard.
 - `assets/fiverr-gallery-png/` - five upload-ready PNG gallery cards for Fiverr

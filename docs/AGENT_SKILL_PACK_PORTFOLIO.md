@@ -16,6 +16,11 @@ delivery template.
 | `error-handler-skill-pack` | Workflows lack structured error handling. | Error taxonomy, logging plan, recovery checklist |
 | `progress-reporter-skill-pack` | Buyers need clear progress updates. | Progress report workflow, blocker notes, buyer message template |
 | `delivery-packager-skill-pack` | Finished work needs clean handoff. | Manifest, setup notes, validation summary, acceptance checklist |
+| `offer-builder-skill-pack` | A market signal needs a scoped sellable offer. | Package ladder, buyer requirements, FAQ, handoff copy |
+| `market-opportunity-radar-skill-pack` | Public market notes need ranking into service ideas. | Opportunity scoring, offer fit, next-step template |
+| `content-distribution-skill-pack` | One proof asset needs safe multi-platform launch copy. | Platform variants, boundaries, launch checklist |
+| `safe-git-release-helper-skill-pack` | Public repo changes need safe release preparation. | Validation map, release notes, stop conditions |
+| `aeo-search-readiness-skill-pack` | Public pages need better answer-engine/search clarity. | AEO checklist, FAQ/proof recommendations, sample report |
 
 ## Why This Matters
 
@@ -48,7 +53,7 @@ npm run preflight
 
 Current result:
 
-- 7 packs validated
+- 12 packs validated
 - required files checked for every pack
 - risky phrases screened
 - delivery templates included
@@ -86,6 +91,8 @@ Use this as a portfolio proof for:
 ## Short Portfolio Caption
 
 I build reusable AI agent skill packs with operating instructions, safety rules,
-test cases, and delivery templates. This public bundle includes 7 validated
-packs covering debugging, error handling, progress reporting, delivery packaging,
-proposal generation, and skill audits.
+test cases, and delivery templates. This public bundle includes 12 validated
+packs covering debugging, error handling, progress reporting, delivery
+packaging, proposal generation, skill audits, offer building, AEO/search
+readiness, safe Git releases, market opportunity radar, and content
+distribution.
