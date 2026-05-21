@@ -95,6 +95,15 @@ coverage before public release.
   `auto-debugger-skill-pack` with safe boundaries, tests, and a client-ready
   delivery template.
 
+## Third Pack Rebuilt
+
+- `error-handler` has useful concepts for error capture, classification,
+  structured logs, recovery suggestions, and reports.
+- Its source documentation renders with mojibake, so the public version is
+  rebuilt as `error-handler-skill-pack` instead of copied.
+- This pack is suitable for Fiverr delivery because it can become a concrete
+  logging/error-handling plan for customer automation workflows.
+
 ## Static Audit Snapshot
 
 See `docs/OPENCLAW_AUDIT_SNAPSHOT_2026-05-21.md` for the first automated source
