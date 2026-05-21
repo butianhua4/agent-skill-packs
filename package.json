@@ -1,0 +1,11 @@
+{
+  "name": "agent-skill-packs",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Reusable AI agent and skill packs for business workflows.",
+  "scripts": {
+    "validate": "node scripts/validate-packs.js",
+    "preflight": "npm run validate"
+  },
+  "license": "MIT"
+}
