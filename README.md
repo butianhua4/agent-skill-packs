@@ -33,6 +33,8 @@ to make agent work easier to inspect, package, sell, and maintain.
   screenshot targets, silent captions, and posting QA.
 - `docs/RELEASE_AND_COMMUNITY_ANNOUNCEMENT.md` - GitHub Release, OpenClaw
   community, social, Fiverr portfolio, and buyer-facing announcement copy.
+- `docs/GITHUB_RELEASE_DRAFT.md` - button-ready release title, notes,
+  validation result, safety scope, and publishing checklist.
 - `assets/fiverr-gallery/` - five editable SVG gallery cards generated from the
   storyboard.
 - `assets/fiverr-gallery-png/` - five upload-ready PNG gallery cards for Fiverr
