@@ -5,6 +5,7 @@
 - Add repository structure and validation gate.
 - Add two clean starter packs.
 - Publish import audit and source boundary notes.
+- Add a pack template and creation helper.
 
 ## Phase 2 - OpenClaw Cleanup
 

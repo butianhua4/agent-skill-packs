@@ -4,6 +4,7 @@
   "private": false,
   "description": "Reusable AI agent and skill packs for business workflows.",
   "scripts": {
+    "new:pack": "node scripts/new-pack.js",
     "validate": "node scripts/validate-packs.js",
     "preflight": "npm run validate"
   },

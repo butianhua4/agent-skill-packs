@@ -45,6 +45,15 @@ as copied implementation.
 npm run validate
 ```
 
+## Add A New Pack
+
+```bash
+npm run new:pack -- workflow-debug-skill
+npm run preflight
+```
+
+See `docs/PACK_TEMPLATE.md` for the naming and quality standard.
+
 ## Roadmap
 
 1. Import and clean the safest OpenClaw packs first.
