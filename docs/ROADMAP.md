@@ -6,6 +6,7 @@
 - Add two clean starter packs.
 - Publish import audit and source boundary notes.
 - Add a pack template and creation helper.
+- Add a static source audit helper for imports.
 
 ## Phase 2 - OpenClaw Cleanup
 

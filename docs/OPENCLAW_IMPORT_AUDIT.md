@@ -78,6 +78,7 @@ coverage before public release.
 3. Convert each candidate into the required pack standard.
 4. Add pack-level tests.
 5. Run `npm run validate`.
+6. Use `npm run audit:source -- "<source-folder>"` before each import batch.
 
 ## First Pack Migrated
 
@@ -93,3 +94,8 @@ coverage before public release.
 - Decision: do not publish the original files yet. Rebuild the pack as
   `auto-debugger-skill-pack` with safe boundaries, tests, and a client-ready
   delivery template.
+
+## Static Audit Snapshot
+
+See `docs/OPENCLAW_AUDIT_SNAPSHOT_2026-05-21.md` for the first automated source
+screen and import order.

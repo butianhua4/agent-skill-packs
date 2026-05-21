@@ -54,6 +54,14 @@ npm run preflight
 
 See `docs/PACK_TEMPLATE.md` for the naming and quality standard.
 
+## Audit A Source Folder
+
+```bash
+npm run audit:source -- "C:\Users\33065\Desktop\OpenClaw自定义技能包"
+```
+
+See `docs/SOURCE_AUDIT.md` before importing local or third-party material.
+
 ## Roadmap
 
 1. Import and clean the safest OpenClaw packs first.
