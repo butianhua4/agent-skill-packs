@@ -1,6 +1,6 @@
 # Agent Skill Pack Upload Checklist
 
-Use this checklist when publishing the 7-pack bundle on Fiverr, GitHub, OpenClaw
+Use this checklist when publishing the 12-pack bundle on Fiverr, GitHub, OpenClaw
 community pages, or domestic service platforms.
 
 ## Publishing Goal
@@ -17,9 +17,15 @@ Position the bundle as a practical, reusable AI agent operations kit:
 
 - Public repo: `https://github.com/butianhua4/agent-skill-packs`
 - Cover image: `assets/agent-skill-pack-bundle-cover.svg`
+- Fiverr gallery PNG cards: `assets/fiverr-gallery-png/`
+- Fiverr gallery review sheet:
+  `assets/fiverr-gallery-contact-sheet/fiverr-gallery-contact-sheet.png`
+- Fiverr gallery PDF deck:
+  `assets/fiverr-gallery-contact-sheet/fiverr-gallery-cards.pdf`
 - Portfolio proof page: `docs/AGENT_SKILL_PACK_PORTFOLIO.md`
 - Listing copy: `docs/AGENT_SKILL_PACK_LISTING.md`
-- Current pack count: 7 validated packs
+- Gallery storyboard: `docs/FIVERR_GALLERY_STORYBOARD.md`
+- Current pack count: 12 validated packs
 - Validation command: `npm run preflight`
 
 ## Fiverr Gig Draft
@@ -78,7 +84,7 @@ Premium package:
 
 - Price: USD 599
 - Delivery: 7 days
-- Scope: 7-pack agent workflow bundle
+- Scope: multi-pack agent workflow bundle
 - Includes: audit, pack design, safety boundaries, test cases, delivery template,
   usage guide, and handoff notes
 
@@ -97,7 +103,15 @@ What the buyer gets:
 ```text
 Each pack can include a README, executable skill instructions, safety boundaries,
 test cases, and a delivery template. I can build from scratch or adapt the
-existing public 7-pack bundle for your use case.
+existing public 12-pack bundle for your use case.
+```
+
+Updated proof line:
+
+```text
+My public proof repository includes 12 validated skill packs, filled sample
+outputs, gallery cards, and a preflight validation command so you can inspect
+the delivery style before ordering.
 ```
 
 Best-fit use cases:
@@ -130,13 +144,33 @@ Ask these questions before starting:
 
 ## Gallery Upload Order
 
-1. Cover: `assets/agent-skill-pack-bundle-cover.svg`
-2. Screenshot or PDF export of `docs/AGENT_SKILL_PACK_PORTFOLIO.md`
-3. Screenshot of the public GitHub repo README
+Use the generated PNG cards first. They are already sized for marketplace
+gallery review and keep the offer focused.
+
+1. `assets/fiverr-gallery-png/01-main-cover.png`
+   - Caption: `AI agent and skill packs for reusable business workflows.`
+   - Purpose: main promise and proof.
+2. `assets/fiverr-gallery-png/02-what-you-get.png`
+   - Caption: `A complete system: skill logic, validation, and delivery.`
+   - Purpose: explain this is more than loose prompts.
+3. `assets/fiverr-gallery-png/03-sample-deliverables.png`
+   - Caption: `Filled sample outputs show what the final handoff looks like.`
+   - Purpose: reduce buyer uncertainty.
+4. `assets/fiverr-gallery-png/04-safety-and-scope.png`
+   - Caption: `Clear boundaries: redacted inputs, scoped reports, no secrets.`
+   - Purpose: make the service safer and platform-compliant.
+5. `assets/fiverr-gallery-png/05-package-ladder.png`
+   - Caption: `Start with diagnosis, then expand into a reusable workflow system.`
+   - Purpose: show package ladder and upsell path.
+
+Review assets before upload:
+
+- Contact sheet: `assets/fiverr-gallery-contact-sheet/fiverr-gallery-contact-sheet.png`
+- PDF deck: `assets/fiverr-gallery-contact-sheet/fiverr-gallery-cards.pdf`
 
 Optional future assets:
 
-- Short video showing the 7 pack folders and `npm run preflight` passing.
+- Short video showing the 12 pack folders and `npm run preflight` passing.
 - Before/after example: messy workflow notes to clean skill pack.
 - One-page PDF menu with all packages and boundaries.
 
@@ -197,6 +231,6 @@ Check:
 - All packs pass structure validation.
 - No unsafe promises are added to the listing.
 - Gallery assets match the service being sold.
+- The gallery cards are uploaded in the order above.
 - Package scope is small enough to deliver reliably.
 - Buyer requirements ask for redacted examples instead of secrets.
-

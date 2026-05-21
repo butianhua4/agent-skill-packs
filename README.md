@@ -23,8 +23,8 @@ to make agent work easier to inspect, package, sell, and maintain.
 - `docs/AGENT_SKILL_PACK_PORTFOLIO.md` - compact proof page for showing the
   current skill-pack bundle to buyers.
 - `docs/AGENT_SKILL_PACK_UPLOAD_CHECKLIST.md` - step-by-step upload checklist
-  for Fiverr, GitHub visibility, OpenClaw community posts, and domestic service
-  platforms.
+  for Fiverr gallery images, GitHub visibility, OpenClaw community posts, and
+  domestic service platforms.
 - `docs/FIVERR_GALLERY_STORYBOARD.md` - gallery image copy, video script, and
   upload order for turning the pack bundle into platform sales material.
 - `assets/fiverr-gallery/` - five editable SVG gallery cards generated from the
