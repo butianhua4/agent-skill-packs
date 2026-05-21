@@ -29,6 +29,8 @@ to make agent work easier to inspect, package, sell, and maintain.
   drafts for converting qualified inquiries into scoped work.
 - `docs/PACK_DEMO_INDEX.md` - demo inputs, expected outputs, and sellable use
   cases for every current pack.
+- `docs/examples/` - filled sample outputs that show what buyer-facing
+  deliverables look like.
 - `assets/agent-skill-pack-bundle-cover.svg` - reusable cover image for the
   skill-pack bundle.
 

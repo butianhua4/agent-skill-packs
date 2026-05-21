@@ -4,6 +4,12 @@ This index shows how each pack can be used in a real buyer-facing workflow. It
 is written for Fiverr listings, GitHub visitors, OpenClaw/community readers, and
 buyers who need to understand the value quickly.
 
+## Filled Sample Outputs
+
+- `docs/examples/ai-workflow-log-debug-filled-sample.md`
+- `docs/examples/offer-builder-filled-sample.md`
+- `docs/examples/aeo-search-readiness-filled-sample.md`
+
 ## Fast Buyer Map
 
 | Buyer problem | Best pack | Sellable outcome |
