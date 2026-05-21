@@ -31,6 +31,8 @@ to make agent work easier to inspect, package, sell, and maintain.
   GitHub/OpenClaw community post, short social post, and recording checklist.
 - `docs/AGENT_SKILL_PACK_VIDEO_SHOT_LIST.md` - record-ready 45-second shot list,
   screenshot targets, silent captions, and posting QA.
+- `docs/RELEASE_AND_COMMUNITY_ANNOUNCEMENT.md` - GitHub Release, OpenClaw
+  community, social, Fiverr portfolio, and buyer-facing announcement copy.
 - `assets/fiverr-gallery/` - five editable SVG gallery cards generated from the
   storyboard.
 - `assets/fiverr-gallery-png/` - five upload-ready PNG gallery cards for Fiverr
