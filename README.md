@@ -37,6 +37,8 @@ to make agent work easier to inspect, package, sell, and maintain.
   validation result, safety scope, and publishing checklist.
 - `docs/OPENCLAW_COMMUNITY_GUIDE.md` - community-facing test, feedback, safety,
   and new-pack request guide for OpenClaw-style users.
+- `docs/OPENCLAW_FAST_POSTS_TO_SEND.md` - short user-sendable OpenClaw,
+  GitHub release, social, and buyer-facing post drafts for safe distribution.
 - `assets/fiverr-gallery/` - five editable SVG gallery cards generated from the
   storyboard.
 - `assets/fiverr-gallery-png/` - five upload-ready PNG gallery cards for Fiverr
