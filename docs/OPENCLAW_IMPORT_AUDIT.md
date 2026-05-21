@@ -114,6 +114,17 @@ coverage before public release.
 - This pack is suitable for service delivery because it converts technical work
   into buyer-friendly progress updates, risk notes, and next-step summaries.
 
+## Fifth Pack Rebuilt
+
+- `delivery-packager` has useful delivery, dependency, manifest, QA, and
+  installation-report concepts.
+- The original source also discusses executables, activation codes, hardware
+  binding, and broad packaging authority, so those parts are excluded from the
+  public pack.
+- The public version is rebuilt as `delivery-packager-skill-pack`, focused on
+  safe client handoff bundles, manifests, acceptance notes, and setup
+  instructions.
+
 ## Static Audit Snapshot
 
 See `docs/OPENCLAW_AUDIT_SNAPSHOT_2026-05-21.md` for the first automated source
