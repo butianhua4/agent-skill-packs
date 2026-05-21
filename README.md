@@ -42,6 +42,7 @@ to make agent work easier to inspect, package, sell, and maintain.
 | `delivery-packager-skill-pack` | Package completed service work into a clean handoff bundle with manifest, QA notes, and buyer instructions. | Rebuilt from OpenClaw concept |
 | `error-handler-skill-pack` | Design structured error handling, logging, recovery, and prevention plans. | Rebuilt from OpenClaw concept |
 | `market-opportunity-radar-skill-pack` | Turn public market notes into ranked sellable AI agent and automation opportunities. | Rebuilt from OpenClaw concept |
+| `offer-builder-skill-pack` | Turn a market signal, proof asset, or skill pack into a sellable service package. | Rebuilt from OpenClaw concept |
 | `progress-reporter-skill-pack` | Turn technical work logs into buyer-ready progress updates, status reports, and next-step summaries. | Rebuilt from OpenClaw concept |
 
 ## Pack Standard

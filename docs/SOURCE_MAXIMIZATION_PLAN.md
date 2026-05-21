@@ -21,7 +21,7 @@ Highest-value candidates:
 | `delivery-packager` | `delivery-packager-skill-pack` | Clean service handoff | Done |
 | `market-radar` | `market-opportunity-radar-skill-pack` | Find sellable opportunities | Done |
 | `markdown-to-social` | `content-distribution-skill-pack` | Repost proof assets | Done |
-| `product-builder` | Candidate offer builder pack | Turn market signal into product | Next |
+| `product-builder` | `offer-builder-skill-pack` | Turn market signal into product | Done |
 | `seo-optimizer` | Candidate AEO/SEO audit pack | Search visibility service | Later |
 | `git-automation` | Candidate safe Git workflow pack | Public repo delivery | Later |
 
@@ -46,9 +46,9 @@ Not allowed:
 
 ## Next Import Queue
 
-1. `product-builder` as an offer builder pack that converts market-radar output
-   into title, package, proof asset, buyer requirements, and delivery template.
-2. `seo-optimizer` as an AEO/AI-search readiness pack.
+1. `seo-optimizer` as an AEO/AI-search readiness pack.
+2. `git-automation` as a safe public-repo release helper with no private repo
+   access or high-permission operations.
 
 ## Validation Rule
 
