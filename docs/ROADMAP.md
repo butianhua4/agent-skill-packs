@@ -26,7 +26,7 @@
 
 ## Phase 4 - Community Distribution
 
-- Add OpenClaw install notes.
+- Add OpenClaw install notes. - Done in `docs/OPENCLAW_COMMUNITY_GUIDE.md`.
 - Add Codex/Claude-style skill runner notes.
 - Add contribution guide and pack template.
 - Prepare posts for OpenClaw community and GitHub discovery.

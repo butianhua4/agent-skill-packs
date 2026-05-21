@@ -35,6 +35,8 @@ to make agent work easier to inspect, package, sell, and maintain.
   community, social, Fiverr portfolio, and buyer-facing announcement copy.
 - `docs/GITHUB_RELEASE_DRAFT.md` - button-ready release title, notes,
   validation result, safety scope, and publishing checklist.
+- `docs/OPENCLAW_COMMUNITY_GUIDE.md` - community-facing test, feedback, safety,
+  and new-pack request guide for OpenClaw-style users.
 - `assets/fiverr-gallery/` - five editable SVG gallery cards generated from the
   storyboard.
 - `assets/fiverr-gallery-png/` - five upload-ready PNG gallery cards for Fiverr
@@ -104,6 +106,13 @@ npm run preflight
 ```
 
 See `docs/PACK_TEMPLATE.md` for the naming and quality standard.
+
+## Community Testing
+
+If you are reviewing this from an OpenClaw-style community or agent-workflow
+group, start with `docs/OPENCLAW_COMMUNITY_GUIDE.md`. It explains how to test a
+pack safely, what feedback is useful, and what private material should never be
+submitted.
 
 ## Audit A Source Folder
 
