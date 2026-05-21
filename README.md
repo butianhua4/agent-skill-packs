@@ -33,6 +33,10 @@ to make agent work easier to inspect, package, sell, and maintain.
   or similar service marketplaces.
 - `scripts/render-gallery-png.py` - local renderer for regenerating the PNG
   gallery cards from the same sales copy.
+- `assets/fiverr-gallery-contact-sheet/` - one-page PNG preview and multi-page
+  PDF deck for reviewing the five gallery cards together.
+- `scripts/render-gallery-contact-sheet.py` - local renderer for regenerating
+  the preview sheet and PDF deck from the PNG cards.
 - `docs/AGENT_SKILL_PACK_BUYER_REPLY_PACK.md` - buyer replies and Custom Offer
   drafts for converting qualified inquiries into scoped work.
 - `docs/PACK_DEMO_INDEX.md` - demo inputs, expected outputs, and sellable use
