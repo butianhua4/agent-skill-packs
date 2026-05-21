@@ -13,6 +13,11 @@ to make agent work easier to inspect, package, sell, and maintain.
 - `docs/` - import audits, quality standards, testing notes, and roadmap.
 - `scripts/validate-packs.js` - local quality gate for pack structure and content.
 
+## Sellable Bundle
+
+- `docs/AGENT_SKILL_PACK_LISTING.md` - Fiverr and Chinese platform listing copy
+  for selling custom agent/skill packs as a service.
+
 ## Current Starter Packs
 
 | Pack | Use case | Status |
