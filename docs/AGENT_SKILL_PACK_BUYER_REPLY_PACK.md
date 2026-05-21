@@ -30,7 +30,7 @@ clear operating instructions, safety boundaries, test cases, and delivery
 templates.
 
 If you share the workflow goal, platform, and a redacted example, I can suggest
-whether a 1-pack, 3-pack, or 7-pack bundle is the best fit.
+whether a 1-pack, 3-pack, or multi-pack bundle is the best fit.
 ```
 
 ## Reply When Buyer Wants "An AI Agent"
@@ -116,9 +116,10 @@ intake, diagnosis, and delivery/reporting. Price: USD 299.
 Premium:
 
 ```text
-For a complete reusable workflow, I recommend the Premium bundle: up to 7
-coordinated packs, including audit, pack design, safety boundaries, test cases,
-delivery templates, usage guide, and handoff notes. Price: USD 599.
+For a complete reusable workflow, I recommend the Premium bundle: up to 6
+custom or adapted coordinated packs, including audit, pack design, safety
+boundaries, test cases, delivery templates, usage guide, and handoff notes.
+Price: USD 599.
 ```
 
 ## Custom Offer Drafts
@@ -158,10 +159,10 @@ Premium custom offer:
 ```text
 Custom AI Agent Skill Pack System - Premium
 
-I will create a 7-pack reusable AI agent workflow bundle with audit, pack design,
-safety boundaries, test cases, delivery templates, usage guide, and handoff
-notes. This is best for teams that want a full repeatable agent operations
-workflow.
+I will create a multi-pack reusable AI agent workflow bundle with audit, pack
+design, safety boundaries, test cases, delivery templates, usage guide, and
+handoff notes. This is best for teams that want a full repeatable agent
+operations workflow.
 
 Price: USD 599
 Delivery: 7 days
@@ -200,4 +201,3 @@ Stop and ask the owner before:
 - Making claims about guaranteed revenue or rankings.
 - Publishing anything under the buyer's account.
 - Touching payment, KYC, tax, wallet, subscription, or payout settings.
-

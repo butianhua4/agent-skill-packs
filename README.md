@@ -39,6 +39,8 @@ to make agent work easier to inspect, package, sell, and maintain.
   the preview sheet and PDF deck from the PNG cards.
 - `docs/AGENT_SKILL_PACK_BUYER_REPLY_PACK.md` - buyer replies and Custom Offer
   drafts for converting qualified inquiries into scoped work.
+- `docs/AGENT_SKILL_PACK_CUSTOM_OFFER_SHORT.md` - short Custom Offer templates
+  for Starter, Standard, Premium, add-ons, refusal, and delivery messages.
 - `docs/PACK_DEMO_INDEX.md` - demo inputs, expected outputs, and sellable use
   cases for every current pack.
 - `docs/examples/` - filled sample outputs that show what buyer-facing

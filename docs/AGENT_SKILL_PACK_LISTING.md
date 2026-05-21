@@ -35,7 +35,7 @@ customer support workflows, reporting workflows, and debugging workflows.
 | --- | ---: | --- | --- |
 | Starter Skill | USD 99 | 2 days | 1 focused skill pack, safety rules, 3 test cases, delivery template |
 | Workflow Pack | USD 299 | 4 days | Up to 3 connected packs, intake map, trigger rules, validation checklist |
-| Agent System Kit | USD 599 | 7 days | Up to 6 packs, workflow architecture, handoff docs, QA checklist, delivery bundle |
+| Agent System Kit | USD 599 | 7 days | Up to 6 custom/adapted packs, workflow architecture, handoff docs, QA checklist, delivery bundle |
 
 ### Buyer Requirements
 
