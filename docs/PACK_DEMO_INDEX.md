@@ -9,6 +9,8 @@ buyers who need to understand the value quickly.
 - `docs/examples/ai-workflow-log-debug-filled-sample.md`
 - `docs/examples/offer-builder-filled-sample.md`
 - `docs/examples/aeo-search-readiness-filled-sample.md`
+- `docs/examples/safe-git-release-helper-filled-sample.md`
+- `docs/examples/delivery-packager-filled-sample.md`
 
 ## Fast Buyer Map
 
