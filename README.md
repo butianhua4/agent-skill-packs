@@ -27,6 +27,8 @@ to make agent work easier to inspect, package, sell, and maintain.
   platforms.
 - `docs/AGENT_SKILL_PACK_BUYER_REPLY_PACK.md` - buyer replies and Custom Offer
   drafts for converting qualified inquiries into scoped work.
+- `docs/PACK_DEMO_INDEX.md` - demo inputs, expected outputs, and sellable use
+  cases for every current pack.
 - `assets/agent-skill-pack-bundle-cover.svg` - reusable cover image for the
   skill-pack bundle.
 

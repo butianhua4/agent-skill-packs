@@ -46,7 +46,7 @@ Not allowed:
 
 ## Next Import Queue
 
-1. Add demo input/output examples for the highest-value packs.
+1. Add more filled sample outputs for the highest-value packs.
 2. Add a bundle index that maps packs into Fiverr, OpenClaw community, and
    GitHub proof use cases.
 
