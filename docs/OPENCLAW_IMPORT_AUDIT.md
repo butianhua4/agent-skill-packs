@@ -78,3 +78,9 @@ coverage before public release.
 3. Convert each candidate into the required pack standard.
 4. Add pack-level tests.
 5. Run `npm run validate`.
+
+## First Pack Migrated
+
+- `client-proposal-generator` was smoke-tested successfully and converted into a
+  generic proposal-generation pack.
+- Original source remains outside this repository until it is fully generalized.
