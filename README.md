@@ -18,6 +18,7 @@ to make agent work easier to inspect, package, sell, and maintain.
 | Pack | Use case | Status |
 | --- | --- | --- |
 | `ai-workflow-log-debug-skill` | Diagnose failed AI agent or automation logs and produce a scoped fix report. | Ready for review |
+| `auto-debugger-skill-pack` | Classify automation failures and produce safe fix plans with validation steps. | Cleaned from OpenClaw concept |
 | `agent-skill-pack-auditor` | Audit a folder of skills, classify risks, and create an upgrade plan. | Ready for review |
 | `client-proposal-generator` | Generate scoped proposals for AI automation, agent workflow, or skill-pack services. | Tested source concept, cleaned pack |
 

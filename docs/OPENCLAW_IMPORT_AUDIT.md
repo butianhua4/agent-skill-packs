@@ -84,3 +84,12 @@ coverage before public release.
 - `client-proposal-generator` was smoke-tested successfully and converted into a
   generic proposal-generation pack.
 - Original source remains outside this repository until it is fully generalized.
+
+## Second Pack Rebuilt
+
+- `auto-debugger` contains useful workflow intent, but its Markdown and JSON
+  content render with mojibake in the current environment.
+- The source folder also contains backup, broken, and original module variants.
+- Decision: do not publish the original files yet. Rebuild the pack as
+  `auto-debugger-skill-pack` with safe boundaries, tests, and a client-ready
+  delivery template.
