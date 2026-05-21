@@ -29,6 +29,8 @@ to make agent work easier to inspect, package, sell, and maintain.
   upload order for turning the pack bundle into platform sales material.
 - `docs/AGENT_SKILL_PACK_DEMO_AND_COMMUNITY_POST.md` - 45-second demo script,
   GitHub/OpenClaw community post, short social post, and recording checklist.
+- `docs/AGENT_SKILL_PACK_VIDEO_SHOT_LIST.md` - record-ready 45-second shot list,
+  screenshot targets, silent captions, and posting QA.
 - `assets/fiverr-gallery/` - five editable SVG gallery cards generated from the
   storyboard.
 - `assets/fiverr-gallery-png/` - five upload-ready PNG gallery cards for Fiverr

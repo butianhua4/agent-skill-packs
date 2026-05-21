@@ -154,3 +154,6 @@ Before recording:
 - Open one filled sample from `docs/examples/`.
 - Open one `SAFETY.md` file.
 - Do not show private files, tokens, buyer messages, payment settings, KYC, tax, wallets, or account pages.
+
+For a record-ready sequence, use
+`docs/AGENT_SKILL_PACK_VIDEO_SHOT_LIST.md`.
