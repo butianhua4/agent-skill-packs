@@ -29,6 +29,10 @@ to make agent work easier to inspect, package, sell, and maintain.
   upload order for turning the pack bundle into platform sales material.
 - `assets/fiverr-gallery/` - five editable SVG gallery cards generated from the
   storyboard.
+- `assets/fiverr-gallery-png/` - five upload-ready PNG gallery cards for Fiverr
+  or similar service marketplaces.
+- `scripts/render-gallery-png.py` - local renderer for regenerating the PNG
+  gallery cards from the same sales copy.
 - `docs/AGENT_SKILL_PACK_BUYER_REPLY_PACK.md` - buyer replies and Custom Offer
   drafts for converting qualified inquiries into scoped work.
 - `docs/PACK_DEMO_INDEX.md` - demo inputs, expected outputs, and sellable use
