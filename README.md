@@ -22,6 +22,7 @@ to make agent work easier to inspect, package, sell, and maintain.
 | `agent-skill-pack-auditor` | Audit a folder of skills, classify risks, and create an upgrade plan. | Ready for review |
 | `client-proposal-generator` | Generate scoped proposals for AI automation, agent workflow, or skill-pack services. | Tested source concept, cleaned pack |
 | `error-handler-skill-pack` | Design structured error handling, logging, recovery, and prevention plans. | Rebuilt from OpenClaw concept |
+| `progress-reporter-skill-pack` | Turn technical work logs into buyer-ready progress updates, status reports, and next-step summaries. | Rebuilt from OpenClaw concept |
 
 ## Pack Standard
 

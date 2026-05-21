@@ -104,6 +104,16 @@ coverage before public release.
 - This pack is suitable for Fiverr delivery because it can become a concrete
   logging/error-handling plan for customer automation workflows.
 
+## Fourth Pack Rebuilt
+
+- `progress-reporter` has useful concepts for multi-step task tracking, status
+  summaries, forecasting, and report generation.
+- The source folder contains backups, logs, reports, templates, and mojibake
+  documentation, so the public version is rebuilt as
+  `progress-reporter-skill-pack` instead of copied.
+- This pack is suitable for service delivery because it converts technical work
+  into buyer-friendly progress updates, risk notes, and next-step summaries.
+
 ## Static Audit Snapshot
 
 See `docs/OPENCLAW_AUDIT_SNAPSHOT_2026-05-21.md` for the first automated source
