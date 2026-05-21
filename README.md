@@ -45,6 +45,7 @@ to make agent work easier to inspect, package, sell, and maintain.
 | `market-opportunity-radar-skill-pack` | Turn public market notes into ranked sellable AI agent and automation opportunities. | Rebuilt from OpenClaw concept |
 | `offer-builder-skill-pack` | Turn a market signal, proof asset, or skill pack into a sellable service package. | Rebuilt from OpenClaw concept |
 | `progress-reporter-skill-pack` | Turn technical work logs into buyer-ready progress updates, status reports, and next-step summaries. | Rebuilt from OpenClaw concept |
+| `safe-git-release-helper-skill-pack` | Prepare public repository changes for safe validation, commit wording, release notes, and buyer/community handoff. | Rebuilt from OpenClaw concept |
 
 ## Pack Standard
 

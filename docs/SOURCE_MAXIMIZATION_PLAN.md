@@ -23,7 +23,7 @@ Highest-value candidates:
 | `markdown-to-social` | `content-distribution-skill-pack` | Repost proof assets | Done |
 | `product-builder` | `offer-builder-skill-pack` | Turn market signal into product | Done |
 | `seo-optimizer` | `aeo-search-readiness-skill-pack` | Search visibility service | Done |
-| `git-automation` | Candidate safe Git workflow pack | Public repo delivery | Later |
+| `git-automation` | `safe-git-release-helper-skill-pack` | Public repo delivery | Done |
 
 ## Claude Backup Inspiration Only
 
@@ -46,9 +46,9 @@ Not allowed:
 
 ## Next Import Queue
 
-1. `git-automation` as a safe public-repo release helper with no private repo
-   access or high-permission operations.
-2. Add demo input/output examples for the highest-value packs.
+1. Add demo input/output examples for the highest-value packs.
+2. Add a bundle index that maps packs into Fiverr, OpenClaw community, and
+   GitHub proof use cases.
 
 ## Validation Rule
 
