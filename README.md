@@ -12,6 +12,9 @@ to make agent work easier to inspect, package, sell, and maintain.
   and delivery templates.
 - `docs/` - import audits, quality standards, testing notes, and roadmap.
 - `scripts/validate-packs.js` - local quality gate for pack structure and content.
+- `docs/SOURCE_MAXIMIZATION_PLAN.md` - plan for safely reusing the user's
+  OpenClaw material while using Claude backup material only as architecture
+  inspiration.
 
 ## Sellable Bundle
 
@@ -37,6 +40,7 @@ to make agent work easier to inspect, package, sell, and maintain.
 | `client-proposal-generator` | Generate scoped proposals for AI automation, agent workflow, or skill-pack services. | Tested source concept, cleaned pack |
 | `delivery-packager-skill-pack` | Package completed service work into a clean handoff bundle with manifest, QA notes, and buyer instructions. | Rebuilt from OpenClaw concept |
 | `error-handler-skill-pack` | Design structured error handling, logging, recovery, and prevention plans. | Rebuilt from OpenClaw concept |
+| `market-opportunity-radar-skill-pack` | Turn public market notes into ranked sellable AI agent and automation opportunities. | Rebuilt from OpenClaw concept |
 | `progress-reporter-skill-pack` | Turn technical work logs into buyer-ready progress updates, status reports, and next-step summaries. | Rebuilt from OpenClaw concept |
 
 ## Pack Standard
