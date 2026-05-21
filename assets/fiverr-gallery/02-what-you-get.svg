@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">What you get in the agent skill pack service</title>
+  <desc id="desc">A Fiverr gallery card explaining skill logic, validation, and delivery assets.</desc>
+  <rect width="1600" height="1000" fill="#f8fafc"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="100" y="130" font-size="64" fill="#0f172a" font-weight="900">Not Just Prompts</text>
+    <text x="100" y="190" font-size="34" fill="#334155">A complete system for reusable AI agent workflows.</text>
+    <g transform="translate(100 285)">
+      <rect width="410" height="470" rx="30" fill="#dbeafe"/>
+      <text x="38" y="72" font-size="34" fill="#1e3a8a" font-weight="900">1. Skill Logic</text>
+      <text x="38" y="145" font-size="27" fill="#1e40af">README</text>
+      <text x="38" y="205" font-size="27" fill="#1e40af">SKILL instructions</text>
+      <text x="38" y="265" font-size="27" fill="#1e40af">Trigger rules</text>
+      <text x="38" y="325" font-size="27" fill="#1e40af">Operating workflow</text>
+    </g>
+    <g transform="translate(595 285)">
+      <rect width="410" height="470" rx="30" fill="#ccfbf1"/>
+      <text x="38" y="72" font-size="34" fill="#115e59" font-weight="900">2. Validation</text>
+      <text x="38" y="145" font-size="27" fill="#0f766e">Test cases</text>
+      <text x="38" y="205" font-size="27" fill="#0f766e">Risk checks</text>
+      <text x="38" y="265" font-size="27" fill="#0f766e">Safety boundaries</text>
+      <text x="38" y="325" font-size="27" fill="#0f766e">Preflight proof</text>
+    </g>
+    <g transform="translate(1090 285)">
+      <rect width="410" height="470" rx="30" fill="#ede9fe"/>
+      <text x="38" y="72" font-size="34" fill="#5b21b6" font-weight="900">3. Delivery</text>
+      <text x="38" y="145" font-size="27" fill="#6d28d9">Report templates</text>
+      <text x="38" y="205" font-size="27" fill="#6d28d9">Buyer messages</text>
+      <text x="38" y="265" font-size="27" fill="#6d28d9">Release notes</text>
+      <text x="38" y="325" font-size="27" fill="#6d28d9">Acceptance checklist</text>
+    </g>
+    <rect x="100" y="835" width="1400" height="78" rx="22" fill="#0f172a"/>
+    <text x="142" y="886" font-size="28" fill="#ffffff" font-weight="800">Each pack is structured so buyers can inspect, test, and reuse the workflow.</text>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Sample deliverables before ordering</title>
+  <desc id="desc">A Fiverr gallery card listing filled sample outputs included in the public proof repository.</desc>
+  <rect width="1600" height="1000" fill="#ecfeff"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="100" y="125" font-size="64" fill="#164e63" font-weight="900">See The Delivery Before You Order</text>
+    <text x="100" y="185" font-size="33" fill="#0e7490">Filled sample outputs show the final handoff style.</text>
+    <g transform="translate(100 270)">
+      <rect width="660" height="120" rx="26" fill="#ffffff"/>
+      <text x="34" y="50" font-size="29" fill="#0f172a" font-weight="900">AI workflow log debug report</text>
+      <text x="34" y="88" font-size="22" fill="#475569">Root cause, evidence, risk, and fix scope</text>
+    </g>
+    <g transform="translate(840 270)">
+      <rect width="660" height="120" rx="26" fill="#ffffff"/>
+      <text x="34" y="50" font-size="29" fill="#0f172a" font-weight="900">Offer builder plan</text>
+      <text x="34" y="88" font-size="22" fill="#475569">Packages, buyer requirements, FAQ, upsell path</text>
+    </g>
+    <g transform="translate(100 430)">
+      <rect width="660" height="120" rx="26" fill="#ffffff"/>
+      <text x="34" y="50" font-size="29" fill="#0f172a" font-weight="900">AEO search readiness report</text>
+      <text x="34" y="88" font-size="22" fill="#475569">Search clarity, FAQ, proof, and conversion edits</text>
+    </g>
+    <g transform="translate(840 430)">
+      <rect width="660" height="120" rx="26" fill="#ffffff"/>
+      <text x="34" y="50" font-size="29" fill="#0f172a" font-weight="900">Safe Git release report</text>
+      <text x="34" y="88" font-size="22" fill="#475569">Risk map, validation, release notes, stop list</text>
+    </g>
+    <g transform="translate(470 590)">
+      <rect width="660" height="120" rx="26" fill="#ffffff"/>
+      <text x="34" y="50" font-size="29" fill="#0f172a" font-weight="900">Delivery package report</text>
+      <text x="34" y="88" font-size="22" fill="#475569">Manifest, usage notes, validation, acceptance checklist</text>
+    </g>
+    <rect x="100" y="815" width="1400" height="85" rx="24" fill="#164e63"/>
+    <text x="138" y="870" font-size="28" fill="#ffffff" font-weight="800">Use the samples to choose the right scope before paying for implementation.</text>
+  </g>
+</svg>

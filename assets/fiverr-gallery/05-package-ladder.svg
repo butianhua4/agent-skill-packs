@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Agent skill pack package ladder</title>
+  <desc id="desc">A Fiverr gallery card showing Starter, Standard, and Premium package levels.</desc>
+  <rect width="1600" height="1000" fill="#f5f3ff"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="100" y="125" font-size="64" fill="#4c1d95" font-weight="900">Choose The Right Level</text>
+    <text x="100" y="185" font-size="33" fill="#6d28d9">Start small, then expand into a reusable agent workflow system.</text>
+    <g transform="translate(100 290)">
+      <rect width="430" height="455" rx="30" fill="#ffffff"/>
+      <text x="38" y="70" font-size="38" fill="#5b21b6" font-weight="900">Starter</text>
+      <text x="38" y="125" font-size="25" fill="#475569">Best for one workflow or one skill idea.</text>
+      <text x="38" y="205" font-size="28" fill="#0f172a" font-weight="800">Output</text>
+      <text x="38" y="255" font-size="25" fill="#334155">Audit</text>
+      <text x="38" y="305" font-size="25" fill="#334155">Scoped pack plan</text>
+      <text x="38" y="355" font-size="25" fill="#334155">Next-step checklist</text>
+    </g>
+    <g transform="translate(585 260)">
+      <rect width="430" height="515" rx="30" fill="#4c1d95"/>
+      <text x="38" y="82" font-size="38" fill="#ffffff" font-weight="900">Standard</text>
+      <text x="38" y="137" font-size="25" fill="#ddd6fe">Best for a reusable business workflow.</text>
+      <text x="38" y="225" font-size="28" fill="#ffffff" font-weight="800">Output</text>
+      <text x="38" y="275" font-size="25" fill="#ede9fe">Custom pack</text>
+      <text x="38" y="325" font-size="25" fill="#ede9fe">Test cases</text>
+      <text x="38" y="375" font-size="25" fill="#ede9fe">Delivery template</text>
+      <text x="38" y="425" font-size="25" fill="#ede9fe">Buyer handoff notes</text>
+    </g>
+    <g transform="translate(1070 290)">
+      <rect width="430" height="455" rx="30" fill="#ffffff"/>
+      <text x="38" y="70" font-size="38" fill="#5b21b6" font-weight="900">Premium</text>
+      <text x="38" y="125" font-size="25" fill="#475569">Best for a multi-pack operating system.</text>
+      <text x="38" y="205" font-size="28" fill="#0f172a" font-weight="800">Output</text>
+      <text x="38" y="255" font-size="25" fill="#334155">Pack bundle</text>
+      <text x="38" y="305" font-size="25" fill="#334155">Proof samples</text>
+      <text x="38" y="355" font-size="25" fill="#334155">Release and delivery docs</text>
+    </g>
+    <rect x="100" y="840" width="1400" height="82" rx="24" fill="#312e81"/>
+    <text x="138" y="893" font-size="27" fill="#ffffff" font-weight="800">Use diagnosis first, then upgrade only when the scope is clear.</text>
+  </g>
+</svg>

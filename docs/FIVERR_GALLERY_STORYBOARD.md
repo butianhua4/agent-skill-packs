@@ -225,6 +225,14 @@ customer data, or account access.
 5. Package ladder
 6. Optional 45-second video
 
+## Generated SVG Gallery Cards
+
+- `assets/fiverr-gallery/01-main-cover.svg`
+- `assets/fiverr-gallery/02-what-you-get.svg`
+- `assets/fiverr-gallery/03-sample-deliverables.svg`
+- `assets/fiverr-gallery/04-safety-and-scope.svg`
+- `assets/fiverr-gallery/05-package-ladder.svg`
+
 ## Next Asset To Generate
 
 Turn this storyboard into either:

@@ -27,6 +27,8 @@ to make agent work easier to inspect, package, sell, and maintain.
   platforms.
 - `docs/FIVERR_GALLERY_STORYBOARD.md` - gallery image copy, video script, and
   upload order for turning the pack bundle into platform sales material.
+- `assets/fiverr-gallery/` - five editable SVG gallery cards generated from the
+  storyboard.
 - `docs/AGENT_SKILL_PACK_BUYER_REPLY_PACK.md` - buyer replies and Custom Offer
   drafts for converting qualified inquiries into scoped work.
 - `docs/PACK_DEMO_INDEX.md` - demo inputs, expected outputs, and sellable use
